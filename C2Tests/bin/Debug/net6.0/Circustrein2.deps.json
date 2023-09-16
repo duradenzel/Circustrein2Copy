@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Circustrein2/1.0.0": {
+        "dependencies": {
+          "C2Models": "1.0.0"
+        },
+        "runtime": {
+          "Circustrein2.dll": {}
+        }
+      },
+      "C2Models/1.0.0": {
+        "runtime": {
+          "C2Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Circustrein2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C2Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
